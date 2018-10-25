@@ -18,7 +18,7 @@
 ```
 
 ## Demo
-
+.
 ![Demo Gif](./demo.gif)
 
 ## Limitations
